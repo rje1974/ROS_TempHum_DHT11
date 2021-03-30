@@ -1,0 +1,1 @@
+Este es un simple emisor de ROS para un esp8266. Lo probe con un NodeMCU 0.9..
